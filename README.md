@@ -1,4 +1,4 @@
-#MCU Silver Price Tracker
+# MCU Silver Price Tracker
 
 This project is a custom embedded system built around an ESP32 and an ILI9341 TFT display, developed entirely from scratch. The ESP32 handles system logic and SPI communication with the display, with firmware written to manage initialization, drawing routines, and peripheral control.
 
