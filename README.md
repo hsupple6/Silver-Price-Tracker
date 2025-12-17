@@ -18,13 +18,13 @@ This repository documents a complete hardware–software integration project, co
 
 # Manufacturing Process
 
-Laser Cut Aluminum Sheet to Size, use Sheet Brake to Bend Metal Parts
+- Laser Cut Aluminum Sheet to Size, use Sheet Brake to Bend Metal Parts
 
-3D Print Main Shell Assembly
+- 3D Print Main Shell Assembly
 
-Solder all Connections Between Esp32 and Display According to Wiring Diagram
-QC All Connections
+- Solder all Connections Between Esp32 and Display According to Wiring Diagram
+- QC All Connections
 
-Upload Code Using USB-TTY UART Connector from Arduino IDE
+- Upload Code Using USB-TTY UART Connector from Arduino IDE
 
-Assemble using either AA Battery Tray or USB-C Cable
+- Assemble using either AA Battery Tray or USB-C Cable
