@@ -8,13 +8,13 @@ This repository documents a complete hardware–software integration project, co
 
 # Spec Sheet
 
-NODE MCU ESP32S
-ILI 9341 320 x 240 SPI Display
-12mm 12v Momentary Switch
-3.3V Regulator Module
+- NODE MCU ESP32S
+- ILI 9341 320 x 240 SPI Display
+- 12mm 12v Momentary Switch
+- 3.3V Regulator Module
 
-PLA
-0.62" Aluminum Sheet
+- PLA
+- 0.62" Aluminum Sheet
 
 # Manufacturing Process
 
